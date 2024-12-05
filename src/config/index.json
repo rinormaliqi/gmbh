@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "HDI Gmbh",
+    "logo": "/abc.png"
+  },
+  "navigation": [
+    {
+      "name": "heim",
+      "href": "heim"
+    },
+    {
+      "name": "über uns",
+      "href": "uber-uns"
+    },
+    {
+      "name": "dienstleistungen",
+      "href": "Dienstleistungen"
+    },
+    {
+      "name": "kontakt",
+      "href": "#kontakt"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Willkommen bei",
+    "subtitle": "HDI Gmbh Demontagen.",
+    "description": "Wir sind Ihr zuverlässiger Partner für Abrissarbeiten, Transport und Entsorgung, Einbringung sowie Kranservice. Mit moderner Ausrüstung und einem erfahrenen Team sorgen wir für effiziente und sichere Lösungen, individuell auf Ihre Bedürfnisse abgestimmt.",
+    "img": "/gmbh2.jpg",
+    "primaryAction": {
+      "text": "Hi",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Eine E-Mail versenden",
+      "href": "#kontakt"
+    }
+  },
+  "product": {
+    "title": "React landing page 2021",
+    "items": [
+      {
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Sadri Berisha",
+    "subtitle": "HDI Gmbh Demotagen",
+    "description": "Wir sind Ihr zuverlässiger Partner für Abrissarbeiten, Transport und Entsorgung, Einbringung sowie Kranservice. Mit moderner Ausrüstung und einem erfahrenen Team sorgen wir für effiziente und sichere Lösungen, individuell auf Ihre Bedürfnisse abgestimmt.",
+    "items": [
+      {
+        "name": "Demolish",
+        "description": "Fachgerechte Demontagen rund um Ihr Haus oder Ihres Betriebsgebäudes.",
+        "icon": "/Demolish-BBF.png"
+      },
+      {
+        "name": "Einbringung",
+        "description": "Wir sorgen dafür das Ihre Heizungen, Boiler & Radiatoren eingebracht werden.",
+        "icon": "/Einbringung-BBF.png"
+      },
+      {
+        "name": "Kran",
+        "description": "Professioneller Transport & Entsorgung bei Regionalen Recyclingstationen.",
+        "icon": "/Kran-BBF-150x150.png"
+      },
+      {
+        "name": "Transport-und-Entsorgung",
+        "description": "Optimales versetzen von Lasten aus verschiedenen Höhen und Abständen.",
+        "icon": "/Transport-und-Entsorgung-BBF-2.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "heim",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "über uns",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "dienstleistungen",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "kontakt",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "instagram": "https://isntagram.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "facebook":"facebook.com"
+    }
+  }
+}
