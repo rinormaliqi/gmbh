@@ -171,6 +171,11 @@
   resolved "https://registry.npmjs.org/@mantine/hooks/-/hooks-7.14.3.tgz"
   integrity sha512-cU3R9b8GLs6aCvpsVC56ZOOJCUIoDqX3RcLWkcfpA5a47LjWa/rzegP4YWfNW6/E9vodPJT4AEbYXVffYlyNwA==
 
+"@netlify/plugin-nextjs@^5.8.1":
+  version "5.8.1"
+  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-5.8.1.tgz"
+  integrity sha512-WB1N0FslhWZ1yAVYTcB6CcFrFOUSQ0O2LfavYZrbAypeNxu2I+oO+cgmhfDgZ8Eoq1g4EMeoIGMkNoZ4ogZTsg==
+
 "@next/bundle-analyzer@^12.0.0":
   version "12.0.0"
   resolved "https://registry.npmjs.org/@next/bundle-analyzer/-/bundle-analyzer-12.0.0.tgz"

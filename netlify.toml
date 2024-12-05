@@ -1,4 +1,3 @@
 [build]
-  command = "npm run build || true"
-  publish = "build"
-
+  publish = "out"  # Or ".next" for Next.js builds
+  command = "npm run build"
