@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 function ContactInfo() {
   const contactDetails = [
@@ -19,8 +19,8 @@ function ContactInfo() {
           />
         </svg>
       ),
-      title: "E-Mail-Adresse",
-      details: ["info@hdigmbh.ch", "support@hdigmbh.ch"],
+      title: 'E-Mail-Adresse',
+      details: ['info@hdigmbh.ch', 'support@hdigmbh.ch'],
     },
     {
       icon: (
@@ -39,8 +39,8 @@ function ContactInfo() {
           />
         </svg>
       ),
-      title: "Telefonnummer",
-      details: ["+41 76 581 37 23"],
+      title: 'Telefonnummer',
+      details: ['+41 76 581 37 23'],
     },
     {
       icon: (
@@ -59,8 +59,8 @@ function ContactInfo() {
           />
         </svg>
       ),
-      title: "Unsere Adresse",
-      details: ["56340 Oberneuhofstrasse", "Baar, Schweiz"],
+      title: 'Unsere Adresse',
+      details: ['56340 Oberneuhofstrasse', 'Baar, Schweiz'],
     },
   ];
 

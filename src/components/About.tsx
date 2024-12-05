@@ -28,14 +28,18 @@ const About = () => {
           ))}
         </div>
         <div className="flex items-center gap-x-8 mt-6 h-8">
-        <a
+          <a
             aria-label="instagram"
             href={socialMedia.instagram}
             target="_blank"
             rel="noreferrer"
           >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="aaa"  width="24"
-              height="24"/>
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"
+              alt="aaa"
+              width="24"
+              height="24"
+            />
           </a>
           <a
             aria-label="linkedin"
@@ -43,9 +47,12 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-          <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="aaa"  width="24"
-              height="24"/>
-             
+            <img
+              src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
+              alt="aaa"
+              width="24"
+              height="24"
+            />
           </a>
           <a
             aria-label="twitter"
@@ -69,8 +76,12 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-          <img src="https://freepnglogo.com/images/all_img/facebook-circle-logo-png.png" alt="aaa"  width="24"
-              height="24"/>
+            <img
+              src="https://freepnglogo.com/images/all_img/facebook-circle-logo-png.png"
+              alt="aaa"
+              width="24"
+              height="24"
+            />
           </a>
         </div>
         <div className="flex items-center mt-6">

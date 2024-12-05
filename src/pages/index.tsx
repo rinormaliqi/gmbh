@@ -1,17 +1,17 @@
 'use client';
+
 import React from 'react';
 
 import About from '../components/About';
 import Canvas from '../components/Canvas';
+import ContactInfo from '../components/ContactInfo';
 import Features from '../components/Features';
 import Header from '../components/Header';
+import ImageGrid from '../components/ImageGrid';
+import ContactForm from '../components/kontakt';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-
-import ContactForm from '../components/kontakt';
-import ContactInfo from '../components/ContactInfo';
-import ImageGrid from '../components/ImageGrid';
 import StatisticsCounter from '../components/StatisticsCounter';
 
 const App = () => {

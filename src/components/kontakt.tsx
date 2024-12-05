@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 function ContactForm() {
   return (
@@ -6,11 +6,15 @@ function ContactForm() {
       <div className="flex flex-col md:flex-row w-full max-w-5xl bg-white shadow-lg rounded-lg overflow-hidden">
         {/* Left Section */}
         <div className="flex-1 p-8">
-          <h1 className="text-4xl font-bold text-gray-800 mb-4">Lass uns reden.</h1>
+          <h1 className="text-4xl font-bold text-gray-800 mb-4">
+            Lass uns reden.
+          </h1>
           <p className="text-xl text-gray-600 mb-6">
             Erzählen Sie uns von Ihrem Projekt.
           </p>
-          <p className="text-gray-500 mb-4">Lass uns zusammen etwas schaffen.</p>
+          <p className="text-gray-500 mb-4">
+            Lass uns zusammen etwas schaffen.
+          </p>
           <div className="flex items-center space-x-2">
             <span className="p-3 bg-gray-100 rounded-lg">
               <svg
@@ -29,7 +33,7 @@ function ContactForm() {
               </svg>
             </span>
             <span className="text-gray-600 text-sm">
-              Schreiben Sie uns an{" "}
+              Schreiben Sie uns an{' '}
               <a
                 href="mailto:contact@tailgrids.com"
                 className="font-medium text-red-500"
@@ -42,7 +46,9 @@ function ContactForm() {
 
         {/* Right Section */}
         <div className="flex-1 bg-red-600 p-8 text-white">
-          <h2 className="text-2xl font-bold mb-4">Schicken Sie uns eine Nachricht</h2>
+          <h2 className="text-2xl font-bold mb-4">
+            Schicken Sie uns eine Nachricht
+          </h2>
           <form className="space-y-6">
             <div>
               <label htmlFor="name" className="block text-sm mb-2">
